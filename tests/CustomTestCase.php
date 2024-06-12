@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace YourProject\Tests;
+namespace Language\Tests;
 
 use DI\Container;
 use PHPUnit\Framework\TestCase;
